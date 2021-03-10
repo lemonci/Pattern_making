@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T20:04:01.614Z" agent="5.0 (Macintosh)" version="14.4.6" etag="9VgL7umx0oU6GGi9J76x" type="github"><diagram id="hLGX6SYFKQZBRS9bp15A">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-10T20:27:12.772Z" agent="5.0 (Macintosh)" etag="UbhWAQtke5kgT1pMTKAB" version="14.4.6" type="github">
+  <diagram id="hLGX6SYFKQZBRS9bp15A" name="Page-1">
+    <mxGraphModel dx="570" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-1" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="270" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-2" value="&lt;pre class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; id=&quot;tw-target-text&quot; style=&quot;text-align: left&quot; dir=&quot;ltr&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;&lt;b&gt;探索&lt;/b&gt;&lt;br/&gt;遗传算法&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-4" value="&lt;pre class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; id=&quot;tw-target-text&quot; style=&quot;text-align: left&quot; dir=&quot;ltr&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;&lt;b&gt;信用分配&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;span class=&quot;tw-menu-btn KTDgic&quot; id=&quot;tw-cst&quot; tabindex=&quot;0&quot;&gt;&lt;span class=&quot;tw-menu-btn-image z1asCe wuXmqc&quot; title=&quot;Clear source text&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;zh-CN&quot;&gt;桶队算法&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="110" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-6" value="&lt;pre class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; id=&quot;tw-target-text&quot; style=&quot;text-align: left&quot; dir=&quot;ltr&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;&lt;b&gt;性能系统&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;span class=&quot;tw-menu-btn KTDgic&quot; id=&quot;tw-cst&quot; tabindex=&quot;0&quot;&gt;&lt;span class=&quot;tw-menu-btn-image z1asCe wuXmqc&quot; title=&quot;Clear source text&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;zh-CN&quot;&gt;分类器&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-9" value="" style="endArrow=async;html=1;endFill=1;" edge="1" parent="1" target="soY_hnx8FPF6lGq6Zbk1-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="178" as="sourcePoint" />
+            <mxPoint x="365" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-10" value="" style="endArrow=none;html=1;endFill=0;startArrow=async;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="185.68421052631584" as="sourcePoint" />
+            <mxPoint x="100" y="184" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-11" value="" style="endArrow=blockThin;html=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="101" y="211" as="sourcePoint" />
+            <mxPoint x="261" y="212.68421052631584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-12" value="" style="endArrow=async;html=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="180.16" as="sourcePoint" />
+            <mxPoint x="570" y="181.84421052631583" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-13" value="" style="endArrow=none;html=1;endFill=0;startArrow=async;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="187.84421052631583" as="sourcePoint" />
+            <mxPoint x="410" y="186.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-14" value="来自输入介面的消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="82" y="159" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-15" value="送&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;wbr&gt;往&lt;/span&gt;&lt;/span&gt;输出介面的消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="159" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-18" value="" style="endArrow=async;html=1;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="329" as="sourcePoint" />
+            <mxPoint x="335" y="239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-19" value="" style="endArrow=none;html=1;endFill=0;startArrow=async;startFill=1;exitX=0.514;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="338.78" y="239.41999999999996" as="sourcePoint" />
+            <mxPoint x="339" y="329" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-20" value="来自内部监视器的消息&lt;br&gt;（目标）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="269" y="332" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="soY_hnx8FPF6lGq6Zbk1-21" value="代价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="82" y="194" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

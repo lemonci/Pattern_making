@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.0">
   <diagram name="Page-1" id="tJBgmc2FK-cq7GgE6frW">
-    <mxGraphModel dx="980" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="980" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,6 +244,9 @@
         </mxCell>
         <mxCell id="7j35Apm0QfLUELKebvuM-2" value="&lt;span&gt;Aligned 3D Gaussians&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540.48" y="316" width="130" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="NsjpHEJZykrjebd84Wyp-1" value="(or camera depth)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="539.48" y="48" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
